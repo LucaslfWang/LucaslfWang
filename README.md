@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 📫 Email me at: [longfei_wang.tech@outlook.com](mailto:longfei_wang.tech@outlook.com)
 -->
 
-- 🌱 Junior at BJUT, BSc in Software Engineer
+- 🌱 Student at 🇨🇳 BJUT, 2018/09 entry (_BSc in Software Engineer_)
 - ⚡ Python / Golang / C++ / JavaScript
 - 😄 Hobbies: Table Tennis / Mountain climbing / Chinese Chess
 - 📫 Email me at: [longfei_wang.tech@outlook.com](mailto:longfei_wang.tech@outlook.com)
