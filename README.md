@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 Junior at BJUT, BSc in Software Engineer
-- 👯 Internship in KuaiShou, ZSRtech
+- 👯 Once interned as basic platform R & D Engineer in KuaiShou, ZSRtech
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
@@ -22,5 +22,6 @@ Here are some ideas to get you started:
 
 - 🌱 Student at 🇨🇳 BJUT, 2018/09 entry (_BSc in Software Engineer_)
 - ⚡ Python / Golang / C++ / JavaScript
+- 👯 Once interned as basic platform R & D Engineer in KuaiShou & ZSRtech
 - 😄 Hobbies: Table Tennis / Mountain climbing / Chinese Chess
 - 📫 Email me at: [longfei_wang.tech@outlook.com](mailto:longfei_wang.tech@outlook.com)
