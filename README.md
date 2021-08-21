@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 [![GitHub](https://img.shields.io/static/v1?logo=github&label=GitHub&message=zhanlong011&color=495867&labelColor=495867)](https://github.com/longxin25)
-[![SSPAI](https://img.shields.io/static/v1?label=SSPAI&message=longxin25&labelColor=E08DAC&color=E08DAC)](https://sspai.com/u/longfei_wang/posts)
+[![LinkedIn](https://img.shields.io/static/v1?logo=LinkedIn&label=LinkedIn&message=LongfeiWang&labelColor=blue&color=blue)]()
+[![RSS](https://img.shields.io/static/v1?logo=rss&label=RSS&message=MyBlog&labelColor=lightgrey&color=lightgrey)]()
 [![Instagram](https://img.shields.io/static/v1?logo=Instagram&label=Instagram&message=longxin25&labelColor=orange&color=critical)]()
 
 - 🌱 Student at 🇨🇳 BJUT, 2018/09 entry (_BSc in Software Engineer_)
