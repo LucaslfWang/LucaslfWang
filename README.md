@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 [![Instagram](https://img.shields.io/static/v1?logo=Instagram&logoColor=white&label=Instagram&message=&nbsp;&labelColor=orange&color=orange&style=flat-square)]()
 <!-- [![SSPAI](https://img.shields.io/static/v1?&label=SSPAI&message=&nbsp;&labelColor=E08DAC&color=E08DAC&style=flat-square)]() -->
 
+✨ Don't forget the original intention.
+
 - 🌱 Student at 🇨🇳 BJUT, 2018/09 entry (_BSc in Software Engineer_)
 - ⚡ Python / Golang / C++ / JavaScript
 - 👯 Once interned as basic platform R & D Engineer in KuaiShou & ZSRtech
