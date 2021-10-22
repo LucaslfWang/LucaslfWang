@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 Junior at BJUT, BSc in Software Engineer
-- 👯 Once interned as basic platform R & D Engineer at KuaiShou, ZSRtech
+- 👯 Once interned at KuaiShou, ZSRtech
 - 💬 An ordinary Blogger
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
@@ -22,11 +22,9 @@ Here are some ideas to get you started:
 [![Instagram](https://img.shields.io/static/v1?logo=Instagram&logoColor=white&label=Instagram&message=&nbsp;&labelColor=orange&color=orange&style=flat-square)]()
 <!-- [![SSPAI](https://img.shields.io/static/v1?&label=SSPAI&message=&nbsp;&labelColor=E08DAC&color=E08DAC&style=flat-square)]() -->
 
-✨ Don't forget the original intention.
-
 - 🌱 Student at 🇨🇳 BJUT, 2018/09 entry (_BSc in Software Engineer_)
-- 👯 Once interned as basic platform R & D Engineer at KuaiShou & ZSRtech
-- 📫 An ordinary Blogger
+- 👯 Once interned at KuaiShou & ZSRtech
+- 📫 My blog: [Longfei's Blog](https://longfei-wang.com)
 - 😄 Hobbies: Table Tennis / Mountain Climbing / Chinese Chess
 - 💬 Email me at: [longfei_wang.tech@outlook.com](mailto:longfei_wang.tech@outlook.com)
 
