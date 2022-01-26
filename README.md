@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 [![GitHub](https://img.shields.io/static/v1?logo=github&label=GitHub&message=&nbsp;&color=495867&labelColor=495867&style=flat-square)](https://github.com/longxin25)
 [![StackOverflow](https://img.shields.io/static/v1?logo=stackoverflow&logoColor=white&label=StackOverflow&message=&nbsp;&labelColor=57A773&color=57A773&style=flat-square)](https://stackoverflow.com/users/16513984/longfeiwang)
 [![LinkedIn](https://img.shields.io/static/v1?logo=LinkedIn&label=LinkedIn&message=&nbsp;&labelColor=blue&color=blue&style=flat-square)](https://www.linkedin.com/in/reallongfeiwang/)
-[![Instagram](https://img.shields.io/static/v1?logo=Instagram&logoColor=white&label=Instagram&message=&nbsp;&labelColor=orange&color=orange&style=flat-square)](https://www.instagram.com/zhanlong011/)
+[![Instagram](https://img.shields.io/static/v1?logo=Instagram&logoColor=white&label=Instagram&message=&nbsp;&labelColor=orange&color=orange&style=flat-square)](https://www.instagram.com/lucaslfwang/)
 <!-- [![SSPAI](https://img.shields.io/static/v1?&label=SSPAI&message=&nbsp;&labelColor=E08DAC&color=E08DAC&style=flat-square)]() -->
 <!-- [![RSS](https://img.shields.io/static/v1?logo=rss&label=RSS&logoColor=white&message=&nbsp;&labelColor=95B8D1&color=95B8D1&style=flat-square)]() -->
 
