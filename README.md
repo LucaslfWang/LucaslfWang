@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 📫 Email me at: [longfei_wang.tech@outlook.com](mailto:longfei_wang.tech@outlook.com)
 -->
 
-[![GitHub](https://img.shields.io/static/v1?logo=github&label=GitHub&message=&nbsp;&color=495867&labelColor=495867&style=flat-square)](https://github.com/longxin25)
+[![GitHub](https://img.shields.io/static/v1?logo=github&label=GitHub&message=&nbsp;&color=495867&labelColor=495867&style=flat-square)](https://github.com/LucaslfWang)
 [![StackOverflow](https://img.shields.io/static/v1?logo=stackoverflow&logoColor=white&label=StackOverflow&message=&nbsp;&labelColor=57A773&color=57A773&style=flat-square)](https://stackoverflow.com/users/16513984/longfeiwang)
 [![LinkedIn](https://img.shields.io/static/v1?logo=LinkedIn&label=LinkedIn&message=&nbsp;&labelColor=blue&color=blue&style=flat-square)](https://www.linkedin.com/in/reallongfeiwang/)
 [![Instagram](https://img.shields.io/static/v1?logo=Instagram&logoColor=white&label=Instagram&message=&nbsp;&labelColor=orange&color=orange&style=flat-square)](https://www.instagram.com/lucaslfwang/)
