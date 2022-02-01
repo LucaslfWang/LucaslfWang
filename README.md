@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <!-- [![RSS](https://img.shields.io/static/v1?logo=rss&label=RSS&logoColor=white&message=&nbsp;&labelColor=95B8D1&color=95B8D1&style=flat-square)]() -->
 
 
-- 🌱 Graduated at 🇨🇳 [BJUT](https://www.bjut.edu.cn/), 2018/09 entry (_BSc in Software Engineer_), once interned as SDE at KuaiShou Technology
+- 🌱 Graduated at 🇨🇳 [BJUT](https://www.bjut.edu.cn/), 2018/09 entry (_BSc in Software Engineer_)
 - ⚡ Striving to be a fullstack engineer
 - 📫 My blog: [Longfei's Blog](https://longfei-wang.com)
 - 😄 Hobbies: Table Tennis / Mountain Climbing / Chinese Chess / Hiking
