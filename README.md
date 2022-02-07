@@ -9,8 +9,7 @@
 
 
 - 🌱 Graduated at 🇨🇳 [BJUT](https://www.bjut.edu.cn/), 2018/09 entry (_BSc in Software Engineer_)
-- ⚡ Striving to be a fullstack engineer
-- 📫 My blog: [Longfei's Blog](https://longfei-wang.com)
+- ⚡ Striving to be a fullstack engineer<!-- - 📫 My blog: [Longfei's Blog](https://longfei-wang.com) -->
 - 😄 Hobbies: Table Tennis / Mountain Climbing / Chinese Chess / Hiking
 - 💬 Email me at: [longfei_wang.tech@outlook.com](mailto:longfei_wang.tech@outlook.com)
 
