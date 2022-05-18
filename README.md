@@ -9,7 +9,7 @@
 
 
 - 🌱 Graduated at 🇨🇳 [BJUT](https://www.bjut.edu.cn/), 2018/09 entry (_BSc in Software Engineer_)
-- 👜 SDE at Tencent (Former SDE at @kwai)<!-- - 📫 My blog: [Longfei's Blog](https://longfei-wang.com) -->
+- 👜 SDE at Tencent (Former SDE at Kwai Inc.)<!-- - 📫 My blog: [Longfei's Blog](https://longfei-wang.com) -->
 - 😄 Hobbies: Table Tennis / Mountain Climbing / Chinese Chess / Hiking
 - 💬 Email me at: [longfei_wang.tech@outlook.com](mailto:longfei_wang.tech@outlook.com)
 
