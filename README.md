@@ -1,16 +1,14 @@
-## Yoo~ I'm Lucas Wang 👋
+## Hi~ I'm Lucas Wang 👋
 
 [![GitHub](https://img.shields.io/static/v1?logo=github&label=GitHub&message=&nbsp;&color=495867&labelColor=495867&style=flat-square)](https://github.com/LucaslfWang)
 [![StackOverflow](https://img.shields.io/static/v1?logo=stackoverflow&logoColor=white&label=StackOverflow&message=&nbsp;&labelColor=57A773&color=57A773&style=flat-square)](https://stackoverflow.com/users/16513984/longfeiwang)
 [![LinkedIn](https://img.shields.io/static/v1?logo=LinkedIn&label=LinkedIn&message=&nbsp;&labelColor=blue&color=blue&style=flat-square)](https://www.linkedin.com/in/reallongfeiwang/)
-<!-- [![SSPAI](https://img.shields.io/static/v1?&label=SSPAI&message=&nbsp;&labelColor=E08DAC&color=E08DAC&style=flat-square)]() -->
-<!-- [![RSS](https://img.shields.io/static/v1?logo=rss&label=RSS&logoColor=white&message=&nbsp;&labelColor=95B8D1&color=95B8D1&style=flat-square)]() -->
-
 
 - 🌱 Graduated at 🇨🇳 [BJUT](https://www.bjut.edu.cn/), 2018/09 entry (_BSc in Software Engineer_)
-- 👜 SDE at Tencent (Former SDE at Kwai Inc.)<!-- - 📫 My blog: [Longfei's Blog](https://longfei-wang.com) -->
+- 👜 Ex Software Engineer at Tencent
 - 😄 Hobbies: Table Tennis / Mountain Climbing / Chinese Chess / Hiking
 - 💬 Email me at: [longfei_wang.tech@outlook.com](mailto:longfei_wang.tech@outlook.com)
+<!-- - 📫 My blog: [Longfei's Blog](https://longfei-wang.com) -->
 
 ### 🛠 Languages, tools and frameworks:
 
