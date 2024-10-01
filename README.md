@@ -6,7 +6,7 @@
 
 - 🌱 Graduated at 🇨🇳 [BJUT](https://www.bjut.edu.cn/), 2018/09 entry (_BSc in Software Engineer_)
 - 👜 Ex Software Engineer at Tencent
-- 😄 Hobbies: Table Tennis / Mountain Climbing / Chinese Chess / Hiking
+- 😄 Hobbies: Hiking / Mountain Climbing / Photography / Game Creation
 - 💬 Email me at: [longfei_wang.tech@outlook.com](mailto:longfei_wang.tech@outlook.com)
 <!-- - 📫 My blog: [Longfei's Blog](https://longfei-wang.com) -->
 
