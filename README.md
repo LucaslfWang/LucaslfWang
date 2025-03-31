@@ -5,9 +5,9 @@
 [![LinkedIn](https://img.shields.io/static/v1?logo=LinkedIn&label=LinkedIn&message=&nbsp;&labelColor=blue&color=blue&style=flat-square)](https://www.linkedin.com/in/reallongfeiwang/)
 
 - 🌱 Graduated at 🇨🇳 [BJUT](https://www.bjut.edu.cn/), 2018/09 entry (_BSc in Software Engineer_)
-- 👜 Former Software Engineer at Tencent / Kwai Inc.
-- 😄 Hobbies: Hiking / Mountain Climbing / Photography / Game Creation
-- 💬 Email me at: [longfei_wang.tech@outlook.com](mailto:longfei_wang.tech@outlook.com)
+- 👜 Former Software Engineer at tech / hedge fund
+- 😄 Hobbies: Hiking / Mountain Climbing / Vintage / Game Creation
+- 📫 Email me at: [longfei_wang.tech@outlook.com](mailto:longfei_wang.tech@outlook.com)
 <!-- - 📫 My blog: [Longfei's Blog](https://longfei-wang.com) -->
 
 ### 🛠 Languages, tools and frameworks:
