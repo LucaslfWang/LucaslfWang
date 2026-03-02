@@ -8,7 +8,6 @@
 - 📖 Pursuing graduate study at 🇺🇸 [NYU](https://www.nyu.edu/), 2025/09 entry (_MSc in Information Science_)
 - 👜 2 yoe Software Engineer at tech / hedge fund
 - 😄 Hobbies: Hiking / Vintage / Game Mod Creation
-- 📫 Email me at: [longfei_wang.tech@outlook.com](mailto:longfei_wang.tech@outlook.com)
 
 ### 🛠 Languages, tools and frameworks:
 
